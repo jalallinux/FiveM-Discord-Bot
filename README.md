@@ -19,7 +19,7 @@ Players :
 ### Using Git
 ```
 cd resources
-git clone https://gitlab.com/JL-FiveM-Scripts/Discord-Bot [jalallinux]/jl_discord
+git clone https://github.com/jalallinux/FiveM-Discord-Bot [jalallinux]/jl_discord
 ```
 
 ### Manually
