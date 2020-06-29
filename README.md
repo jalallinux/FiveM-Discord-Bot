@@ -23,7 +23,7 @@ git clone https://gitlab.com/JL-FiveM-Scripts/Discord-Bot [jalallinux]/jl_discor
 ```
 
 ### Manually
-- Download https://gitlab.com/JL-FiveM-Scripts/Discord-Bo/archive/master.zip
+- Download https://github.com/jalallinux/FiveM-Discord-Bot/archive/master.zip
 - Put it in the `[jalallinux]` directory
 
 ---
