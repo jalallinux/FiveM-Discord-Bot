@@ -19,11 +19,11 @@ Players :
 ### Using Git
 ```
 cd resources
-git clone https://github.com/jalallinux/FiveM-Discord-Bot [jalallinux]/jl_discord
+git clone https://gitlab.com/JL-FiveM-Scripts/Discord-Bot [jalallinux]/jl_discord
 ```
 
 ### Manually
-- Download https://github.com/jalallinux/FiveM-Discord-Bot/archive/master.zip
+- Download https://gitlab.com/JL-FiveM-Scripts/Discord-Bot/-/archive/master/Discord-Bot-master.zip
 - Put it in the `[jalallinux]` directory
 
 ---
