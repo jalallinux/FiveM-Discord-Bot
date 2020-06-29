@@ -50,6 +50,8 @@ Config.WebhooksUrl = {
 ```
 **---** You can get your `SteamKey` from https://steamcommunity.com/dev/apikey but it's optional for temporarily.
 
+---
+
 ## Screenshots
 
 ![Connect player](https://cdn.discordapp.com/attachments/684367422165090432/727148504585076746/connect-log.png "Connect player") . ![Disconnect playe](https://cdn.discordapp.com/attachments/684367422165090432/727148505596035092/disconnect-log.png "Disconnect player")
