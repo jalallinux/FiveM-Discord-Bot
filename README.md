@@ -54,5 +54,5 @@ Config.WebhooksUrl = {
 
 ## Screenshots
 
-![Connect player](https://cdn.discordapp.com/attachments/684367422165090432/727148504585076746/connect-log.png "Connect player") . ![Disconnect playe](https://cdn.discordapp.com/attachments/684367422165090432/727148505596035092/disconnect-log.png "Disconnect player")
+![Connect player](https://cdn.discordapp.com/attachments/684367422165090432/727148504585076746/connect-log.png "Connect player") . ![Disconnect playe](https://cdn.discordapp.com/attachments/684367422165090432/727148505596035092/disconnect-log.png "Disconnect player") . 
 ![Chat Log](https://cdn.discordapp.com/attachments/684367422165090432/727148503003955250/chat-log.png "Chat Log") . ![Kill Log](https://cdn.discordapp.com/attachments/684367422165090432/727148508108554330/kill-log.png "Kill Log")
