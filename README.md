@@ -21,10 +21,13 @@ Players :
 cd resources
 git clone https://github.com/jalallinux/FiveM-Discord-Bot [jalallinux]/jl_discord
 ```
+**--** Add to your **server.cfg** file ``start jl_discord``
 
 ### Manually
 - Download https://github.com/jalallinux/FiveM-Discord-Bot/archive/master.zip
 - Put it in the `[jalallinux]` directory
+- rename it to jl_discord
+- Add to your **server.cfg** file ``start jl_discord``
 
 ---
 
