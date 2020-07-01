@@ -21,7 +21,7 @@ Players :
 cd resources
 git clone https://github.com/jalallinux/FiveM-Discord-Bot [jalallinux]/jl_discord
 ```
-**--** Add to your **server.cfg** file ``start jl_discord``
+- Add to your **server.cfg** file ``start jl_discord``
 
 ### Manually
 - Download https://github.com/jalallinux/FiveM-Discord-Bot/archive/master.zip
@@ -51,7 +51,7 @@ Config.WebhooksUrl = {
     Chat        = '- - - - - Discord Channel Webhook URL Here - - - - -',
 }
 ```
-**---** You can get your `SteamKey` from https://steamcommunity.com/dev/apikey but it's optional for temporarily.
+- You can get your `SteamKey` from https://steamcommunity.com/dev/apikey but it's optional for temporarily.
 
 ---
 
