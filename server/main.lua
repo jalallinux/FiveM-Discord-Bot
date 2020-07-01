@@ -159,3 +159,5 @@ end
 ---- System Start Alert -----
 -----------------------------
 sendToDiscord(Config.WebhooksUrl.System, Config.SystemAvatar, 'Started\n:robot:', 'FiveM server webhook manager started by **JLDiscord**', 16318463)
+
+print('^5JalalLinuX ^7: ^1'..GetCurrentResourceName()..'^7 started ^2successfully^7... (^3https://jalallinux.ir)^7')
